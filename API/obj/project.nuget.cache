@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kv+Dt0H7QkgMTMUQoLQbxKp9w6YiyLonPZ1dwb0VyqdVpSlAUBkrekHVsMe2Ki/nw7UwuqeH6W5ij4XgawWyCA==",
+  "dgSpecHash": "DqUA6+9Hatb271Ls9SWR9fjaSkw96dD3PAwv5WP6PcgYqYojw0b7A/AgyG3je3L4DAXXPsry+Iz2MQU17vluVA==",
   "success": true,
-  "projectFilePath": "G:\\saurabh\\dotNetCore\\Project_file\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "G:\\saurabh\\dotNetCore\\Project_file\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dev2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dev2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
