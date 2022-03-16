@@ -1,0 +1,13 @@
+h1 {
+  left: 43%;
+  position: relative;
+}
+img {
+  left: 29%;
+  position: relative;
+  width: 546px;
+}
+button {
+  position: relative;
+  left: 42%;
+}

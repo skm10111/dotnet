@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\saurabh\\dotNetCore\\Project_file\\DatingApp\\API\\API.csproj": {}
+    "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "G:\\saurabh\\dotNetCore\\Project_file\\DatingApp\\API\\API.csproj": {
+    "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\saurabh\\dotNetCore\\Project_file\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "G:\\saurabh\\dotNetCore\\Project_file\\DatingApp\\API\\API.csproj",
+        "projectPath": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Dev2\\.nuget\\packages\\",
-        "outputPath": "G:\\saurabh\\dotNetCore\\Project_file\\DatingApp\\API\\obj\\",
+        "outputPath": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dev2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,22 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -49,6 +65,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.1, )"
             }
           },
           "imports": [
@@ -69,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
