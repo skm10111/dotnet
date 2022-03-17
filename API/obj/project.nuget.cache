@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ozVLUlXaIx4JAy72lExTkctgPpbXEBxPiyln3RgXH25IU2RRrUxsEcJrcfEU3Hjb3tvUZfLXMTTOXSxIAiB30w==",
+  "dgSpecHash": "fdVB/szdbvXMwsU6zF53yd9QPaG+EtY1NaoAfWabxnD8x1sxTYv8GsDlIs2TPQXoESX3F/JAjA3NiidJq6GHsw==",
   "success": true,
   "projectFilePath": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,8 @@
     "C:\\Users\\Dev2\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "C:\\Users\\Dev2\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
     "C:\\Users\\Dev2\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Dev2\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dev2\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.0\\npgsql.entityframeworkcore.postgresql.5.0.0.nupkg.sha512",
     "C:\\Users\\Dev2\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\Dev2\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\Dev2\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",

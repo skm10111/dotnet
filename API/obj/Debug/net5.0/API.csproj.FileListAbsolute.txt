@@ -131,3 +131,5 @@ G:\saurabh\DOTNET CORE\Project_file\DatingApp\API\obj\Debug\net5.0\API.pdb
 G:\saurabh\DOTNET CORE\Project_file\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 G:\saurabh\DOTNET CORE\Project_file\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 G:\saurabh\DOTNET CORE\Project_file\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\saurabh\DOTNET CORE\Project_file\DatingApp\API\bin\Debug\net5.0\Npgsql.dll
+G:\saurabh\DOTNET CORE\Project_file\DatingApp\API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
