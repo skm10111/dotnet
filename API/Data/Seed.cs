@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
 using API.Entities;
@@ -30,7 +31,7 @@ new AppRole{Name = "Moderator"},
 
             foreach (var user in users)
             {
-
+                user.Photos.First().IsApproved = true;
                 user.UserName = user.UserName.ToLower();
 
 

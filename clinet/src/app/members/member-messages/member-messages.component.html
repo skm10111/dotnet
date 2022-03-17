@@ -13,7 +13,11 @@
     >
       <li *ngFor="let message of messageService.messageThread$ | async">
         <div>
-          <span class="chat-img float-right">
+          <span
+            [ngClass]="
+              message.senderUsername != username ? 'chat-img ' : 'chat-imgs'
+            "
+          >
             <img
               class="rounded-circle"
               src="{{ message.senderPhotoUrl || './assets/user.png' }}"
@@ -34,6 +38,7 @@
                 >
                   (unread)
                 </span>
+
                 <span
                   class="text-success"
                   *ngIf="
@@ -44,7 +49,16 @@
                 </span>
               </small>
             </div>
-            <p>{{ message.content }}</p>
+            &nbsp;
+            <p
+              [ngClass]="
+                message.senderUsername != username
+                  ? 'chat-content-sender '
+                  : 'chat-content-receiver'
+              "
+            >
+              {{ message.content }}
+            </p>
           </div>
         </div>
       </li>

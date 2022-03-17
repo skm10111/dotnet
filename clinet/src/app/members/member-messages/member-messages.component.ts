@@ -27,6 +27,9 @@ export class MemberMessagesComponent implements OnInit {
     this.messageService
       .sendMessage(this.username, this.messageContent)
       .then(() => {
+        console.log('username :' + this.username);
+        console.log('messages :' + this.messages);
+
         this.messageForm.reset();
       });
   }

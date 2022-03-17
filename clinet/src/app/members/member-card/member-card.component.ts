@@ -22,12 +22,7 @@ export class MemberCardComponent implements OnInit {
 
   addLike(member: Member) {
     this.memberService.addLike(member.username).subscribe(() => {
-      // if (this.router.url == '/lists') {
-      //   this.toastr.success('You have remove ' + member.knownAs);
-      //   window.location.reload();
-      // } else {
       this.toastr.success('You have liked ' + member.knownAs);
-      // }
     });
   }
 }

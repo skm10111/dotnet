@@ -17,3 +17,19 @@
 .rounded-circle {
   max-height: 50px;
 }
+.chat-img {
+  float: right;
+  margin-right: 11px;
+}
+.chat-imgs {
+  float: left;
+  margin: 0 10px 0;
+}
+.chat-content-sender {
+  margin-right: 11px;
+  float: right;
+}
+.chat-content-receiver {
+  margin: 0 10px 0;
+  float: left;
+}
