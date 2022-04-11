@@ -5,66 +5,59 @@
 <div class="container mt-3">
   <form
     #form="ngForm"
-    class="form-inline mb-3"
+    class="d-flex mb-3"
     (ngSubmit)="loadMembers()"
     autocomplete="off"
   >
-    <div class="form-group d-sm-inline-block">
-      <label>Age from: </label>
+    <div class="d-flex mx-2">
+      <label class="col-form-label me-2">Age from: </label>
       &nbsp;
       <input
         type="number"
-        class="form-control ml-1 d-sm-inline-block"
+        class="form-control ml-1"
         style="width: 70px"
         name="minAge"
         [(ngModel)]="userParams.minAge"
       />
     </div>
 
-    <div class="form-group px-2 d-sm-inline-block">
-      <label>Age to: </label>
+    <div class="d-flex px-2">
+      <label class="col-form-label me-2">Age to: </label>
       &nbsp;
       <input
         type="number"
-        class="form-control ml-1 d-sm-inline-block"
+        class="form-control ml-1"
         style="width: 70px"
         name="maxAge"
         [(ngModel)]="userParams.maxAge"
       />
     </div>
 
-    <div class="form-group px-2 d-sm-inline-block">
-      <label>Show: </label>
+    <div class="d-flex px-2">
+      <label class="col-form-label me-2">Show: </label>
       &nbsp;
       <select
         name="gender"
         style="width: 130px"
         [(ngModel)]="userParams.gender"
-        class="form-control ml-1 d-sm-inline-block"
+        class="form-control ms-1"
       >
         <option *ngFor="let gender of genderList" [value]="gender.value">
           {{ gender.display }}
         </option>
       </select>
     </div>
-    &nbsp;
 
-    <button class="btn btn-primary ml-1 d-sm-inline-block" type="submit">
-      Apply Filters
-    </button>
-    &nbsp;
-    <button
-      (click)="resetFilter()"
-      class="btn btn-info ml-1 d-sm-inline-block"
-      type="submit"
-    >
+    <button class="btn btn-primary ms-1" type="submit">Apply Filters</button>
+
+    <button (click)="resetFilter()" class="btn btn-info ms-1" type="submit">
       Reset Filters
     </button>
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-    <div class="btn-group float-right">
+
+    <div class="btn-group float-end ms-5">
       <button
         type="button"
-        class="btn btn-primary"
+        class="btn btn-primary me-1"
         name="orderBy"
         (click)="loadMembers()"
         btnRadio="lastActive"
@@ -72,7 +65,7 @@
       >
         Last Active
       </button>
-      &nbsp;&nbsp;
+
       <button
         type="button"
         class="btn btn-primary"

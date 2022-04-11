@@ -1,5 +1,5 @@
 <div class="row">
-  <table class="table">
+  <table class="table table-hover">
     <thead>
       <tr>
         <th style="width: 30%">Username</th>
@@ -12,11 +12,7 @@
         <td>{{ user.username }}</td>
         <td>{{ user.roles }}</td>
         <td>
-          <button
-            class="btn btn-primary"
-            style="background-color: rgb(91, 192, 222); border-color: #f2f2f2"
-            (click)="openRolesModal(user)"
-          >
+          <button class="btn btn-info" (click)="openRolesModal(user)">
             Edit Roles
           </button>
           &nbsp; &nbsp; &nbsp; &nbsp;
