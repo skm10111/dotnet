@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj": {}
+    "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj": {
+    "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\API.csproj",
+        "projectPath": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Dev2\\.nuget\\packages\\",
-        "outputPath": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\obj\\",
+        "outputPath": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dev2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

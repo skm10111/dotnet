@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OmyzpXqw275XkUBGNrQ8CNLc3QGxiScS9FW7ll+MkHo=",
+  "Hash": "1u4aM7ERVWw4key7NCz1Zb9r/34oSX4iH0Wd7Gg2CJo=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\3rdpartylicenses.txt",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses.txt",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\assets\\user.png",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\assets\\user.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/user.png",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\user.png"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\favicon.ico",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.cf011583fb81df9f.woff",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.da909aa098b0ee2d.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.e9955780856cf8aa.woff2",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\index.html",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -170,12 +170,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\main.b7e732a8d2ee4dcb.js",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\main.13645fa8d43eacf1.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.b7e732a8d2ee4dcb.js",
+      "RelativePath": "main.13645fa8d43eacf1.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.b7e732a8d2ee4dcb.js"
+      "OriginalItemSpec": "wwwroot\\main.13645fa8d43eacf1.js"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\polyfills.a925727f676e99a6.js",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\polyfills.a925727f676e99a6.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "polyfills.a925727f676e99a6.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\polyfills.a925727f676e99a6.js"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\runtime.ae6009628e474c96.js",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\runtime.ae6009628e474c96.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "runtime.ae6009628e474c96.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\runtime.ae6009628e474c96.js"
     },
     {
-      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\styles.3cbc498f91dff53f.css",
+      "Identity": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\styles.3cbc498f91dff53f.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\API\\wwwroot\\",
+      "ContentRoot": "G:\\saurabh\\DOTNET CORE\\Project_file\\DatingApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "styles.3cbc498f91dff53f.css",
       "AssetKind": "All",

@@ -31,8 +31,11 @@ namespace API.Services
                 new Claim(JwtRegisteredClaimNames.UniqueName, user.UserName),
          };
             var roles = await _userManager.GetRolesAsync(user);
-
-            claims.AddRange(roles.Select(role => new Claim(ClaimTypes.Role, role)));
+            // List<object> arole = new List<object>();
+            // IEnumerable<Claim> claims1 = (IEnumerable<Claim>)arole;
+            // claims.AddRange(claims1);
+            var a = roles.Select(role => new Claim(ClaimTypes.Role, role));
+            claims.AddRange(a);
 
             var creds = new SigningCredentials(_key, SecurityAlgorithms.HmacSha512Signature);
             var tokenDescriptor = new SecurityTokenDescriptor
